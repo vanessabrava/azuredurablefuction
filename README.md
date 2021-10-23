@@ -2,7 +2,7 @@
 Azure Fuction Durable created as POC for VSSummit2021 lecture.
 
 
-# Run a .NET Core Azure Durable Function in a Container
+## Run a .NET Core Azure Durable Function in a Container
 
 ## Build the dotnet core project
 
